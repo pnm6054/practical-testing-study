@@ -4,6 +4,7 @@ import jakarta.persistence.*;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import sample.cafekiosk.spring.api.service.product.response.ProductResponse;
 
 @Getter
 @NoArgsConstructor(access = lombok.AccessLevel.PROTECTED)
